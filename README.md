@@ -24,7 +24,7 @@
 
 ### 📫 Let’s connect
 
-- 📧 Email: antonio.grosu@example.com  
+- 📧 Email: antonio.grosu19@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonio-grosu-a401ab310/)  
 - 🌍 Website: grosu-development.com(https://grosu-development.com)
 
