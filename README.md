@@ -9,7 +9,6 @@
 
 - **Frontend & Mobile**: TypeScript, React, Next.js, React Native, Expo  
 - **Backend**: Node.js, Express, MongoDB  
-- **Other tools**: Stripe API, REST, Git, Vercel, Docker
 
 ---
 
