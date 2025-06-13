@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Antonio Grosu
 
-<!--
-**antonio-grosu/antonio-grosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Fullstack Developer | Founder @ Grosu Development Group  
+🚀 Passionate about building modern, scalable web & mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- **Frontend & Mobile**: TypeScript, React, Next.js, React Native, Expo  
+- **Backend**: Node.js, Express, MongoDB  
+- **Other tools**: Stripe API, REST, Git, Vercel, Docker
+
+---
+
+### 💼 What I Do
+
+- Build full-stack web and mobile apps, from design to deployment  
+- Focus on performance, clean architecture, and fast MVP iterations  
+- Integrate payment systems (e.g. Stripe), authentication, and API layers  
+- Work with teams or lead development from the ground up
+
+---
+
+### 📫 Let’s connect
+
+- 📧 Email: antonio.grosu@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-grosu-a401ab310/)  
+- 🌍 Website: grosu-development.com(https://grosu-development.com)
+
+---
+
+
