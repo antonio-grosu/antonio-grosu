@@ -16,7 +16,6 @@
 
 - Build full-stack web and mobile apps, from design to deployment  
 - Focus on performance, clean architecture, and fast MVP iterations  
-- Integrate payment systems (e.g. Stripe), authentication, and API layers  
 - Work with teams or lead development from the ground up
 
 ---
