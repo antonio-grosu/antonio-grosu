@@ -8,7 +8,7 @@
 ### 🧰 Tech Stack
 
 - **Frontend & Mobile**: TypeScript, React, Next.js, React Native, Expo  
-- **Backend**: Node.js, Express, MongoDB  
+- **Backend**: Node.js, Express, MongoDB, Postgresql  
 
 ---
 
