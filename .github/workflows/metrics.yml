@@ -1,5 +1,3 @@
-
-
 name: GitHub Metrics
 
 on:
@@ -15,11 +13,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: antonio-grosu
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Bucharest
+          template: "classic"
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: "Europe/Bucharest"
 
-          plugin_activity: yes
+          plugin_activity: "yes"
           plugin_activity_days: 30
-          plugin_activity_filter: pr
-          plugin_activity_visibility: all
+          plugin_activity_filter: "pr"
+          plugin_activity_visibility: "all"
+
+          # 🔥 Language analysis across ALL repos (private + public)
+          plugin_languages: "yes"
+          plugin_languages_indepth: "yes"
+          plugin_languages_ignored: "html, css"
+          plugin_languages_details: "bytes-size, percentage"
+          plugin_languages_limit: 8
+          plugin_languages_sections: "recently-used"
+          plugin_languages_analysis_timeout: 15
