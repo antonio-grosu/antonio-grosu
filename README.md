@@ -2,7 +2,7 @@
   <img src="https://www.grosu-development.com/favicon.png" width="10%" />
 </p>
 
-<h1 align="center">Hey, I'm Antonio 👋</h1>
+<h1 align="center">Hey, I'm Antonio Grosu 👋</h1>
 <h3 align="center">Fullstack Developer and Founder at Grosu Development Group</h3>
 
 <p align="center">
