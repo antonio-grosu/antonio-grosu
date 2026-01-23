@@ -167,17 +167,7 @@ Tech: React, Next.js, Django, PostgreSQL
 
 </details>
 
----
 
-# 🌐 Full Private + Public Contribution Metrics
-
-All stats below include **private repos**, **private commits**, **private PRs**, **private collab work**, **organization repos**, and **enterprise projects**.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/antonio-grosu/antonio-grosu/main/github-metrics.svg" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
