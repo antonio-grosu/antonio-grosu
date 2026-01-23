@@ -30,7 +30,6 @@ Recent work includes mobile ecosystems like Omnia360 and IRVO, national scale di
 - Delivered a national scale digitalization system for ANSR  
 - Contributed private and public pull requests across multiple client projects  
 - Architected apps with dozens of modules, screens and workflows  
-- Integrated OpenAI powered insights into HR, planning and CRM systems  
 
 ---
 
