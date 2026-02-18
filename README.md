@@ -173,7 +173,7 @@ Tech: React, Next.js, Django, PostgreSQL
     <img src="https://img.shields.io/badge/Email-antonio9%40grosu-development.com-blue?style=for-the-badge" />
   </a>
   <a href="https://grosu-development.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-grosu--development.com-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-grosu-development.com-purple?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/antonio-grosu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Antonio%20Grosu-0A66C2?style=for-the-badge&logo=linkedin" />
