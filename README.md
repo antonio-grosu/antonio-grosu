@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.grosu-development.com/favicon.png" width="10%" />
-</p>
+
 
 <h1 align="center">Hey, I'm Antonio Grosu 👋</h1>
 <h3 align="center">Fullstack Developer and Founder at Grosu Development Group</h3>
@@ -171,7 +169,7 @@ Tech: React, Next.js, Django, PostgreSQL
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:antonio.grosu19@gmail.com">
+  <a href="mailto:antonio@grosu-development.com">
     <img src="https://img.shields.io/badge/Email-antonio.grosu19%40gmail.com-blue?style=for-the-badge" />
   </a>
   <a href="https://grosu-development.com" target="_blank">
