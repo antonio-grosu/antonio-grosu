@@ -170,7 +170,7 @@ Tech: React, Next.js, Django, PostgreSQL
 
 <p align="center">
   <a href="mailto:antonio@grosu-development.com">
-    <img src="https://img.shields.io/badge/Email-antonio.grosu19%40gmail.com-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-antonio9%40grosu-development.com-blue?style=for-the-badge" />
   </a>
   <a href="https://grosu-development.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-grosu--development.com-purple?style=for-the-badge" />
