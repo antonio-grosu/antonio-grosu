@@ -162,6 +162,8 @@ A national web platform with:
 
 Tech: React, Next.js, Django, PostgreSQL
 
+More info: https://ansr.ro/digitalizarea-ansr/
+
 </details>
 
 
